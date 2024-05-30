@@ -19,6 +19,7 @@ public class RabbitMQConfig {
         return new Queue(QUEUE_PRODUCT_LOG,false,false,false);
     }
 
+    @Bean
     public DirectExchange directExchange(){
         return new DirectExchange(EXG_NAME_MARKETPLACE,false,false);
     }
