@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="409dd7e4-a27f-43d3-9976-5aaef00c6e67" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/src/main/java/dtos/ProductDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/src/main/java/org/rabbitmq/commons/CommonsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/src/test/java/org/rabbitmq/commons/CommonsApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/consumer-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/consumer-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/consumer-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/consumer-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/consumer-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/consumer-service/src/main/java/br/com/marcos/consumer_service/ConsumerServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/consumer-service/src/main/java/br/com/marcos/consumer_service/rabbitmq/consumers/StringConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/consumer-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/consumer-service/src/test/java/br/com/marcos/consumer_service/ConsumerServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer/src/main/java/br/com/marcos/producer/services/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/producer/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/producer/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/producer/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/producer/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/producer/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/producer/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/producer/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/producer/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/marcos/producer/ProducerServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/producer/src/main/java/br/com/marcos/producer/ProducerServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/marcos/producer/configs/RabbitMQConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/producer/src/main/java/br/com/marcos/producer/configs/RabbitMQConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/marcos/producer/controllers/StringController.java" beforeDir="false" afterPath="$PROJECT_DIR$/producer/src/main/java/br/com/marcos/producer/controllers/StringController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/marcos/producer/services/StringService.java" beforeDir="false" afterPath="$PROJECT_DIR$/producer/src/main/java/br/com/marcos/producer/services/StringService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/producer/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/br/com/marcos/producer/ProducerServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/producer/src/test/java/br/com/marcos/producer/ProducerServiceApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2hkVr75qjEh8EC1SaiKFzK1sctF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "developer__including",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/Documents/projetos/RabbitMQ_Test"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="409dd7e4-a27f-43d3-9976-5aaef00c6e67" name="Changes" comment="" />
+      <created>1718138262620</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718138262620</updated>
+    </task>
+    <servers />
+  </component>
+</project>
